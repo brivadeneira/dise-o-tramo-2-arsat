@@ -1,0 +1,17 @@
+localidad,provincia,lambda_1,roadm_lambda_1,lambda_2,roadm_lambda2,lambda_3,roadm_lambda_3,distancia_nodo_siguiente,distancia_entre_nodos,latitud,longitud
+Benavidez,Buenos Aires,X,ASOut,,,X,ASOut,49,,-34.4152,-58.6868
+Zárate,Buenos Aires,,STOut,,,,STOut,73.6,,-34.0958,-59.0242
+San Pedro,Buenos Aires,,STOut,,,,STOut,76.4,,-33.6758,-59.6629
+San Nicolás de los Arroyos,Buenos Aires,,STOut,,,,STOut,76.6,,-33.3335,-60.211
+Rosario,Santa Fé,X,"ASOut, SDOut",X,ASOut,,STOut,94,275.6,-32.9442,-60.6505
+San Fabián,Santa Fé,,STOut,,STOut,,STOut,68,,-32.1362,-60.9826
+Santa Fé,Santa Fé,,STOut,X,"ASOut, SDOut",X,SDOut,31,162,-31.6107,-60.6973
+Paraná,Entre Ríos,,STOut,X,"ASOut, SDOut",,,87.2,31,-31.7413,-60.5115
+Alcaraz,Entre Ríos,,STOut,,STOut,,,76.2,,-31.4567,-59.5991
+La Paz,Entre Ríos,,STOut,,STOut,,,87,,-30.759,-59.6393
+Esquina,Corrientes,,STOut,,STOut,,,98.7,,-30.0185,-59.5314
+Goya,Corrientes,,STOut,X,"ASOut, SDOut",,,87.7,349.1,-29.1442,-59.2643
+Bellavista,Corrientes,,STOut,,STOut,,,83.6,,-28.5066,-59.0423
+Empedrado,Corrientes,,STOut,,STOut,,,58.7,,-27.9525,-58.8032
+Corrientes,Corrientes,,STOut,,STOut,,,21.3,,-27.4692,-58.8306
+Resistencia,Chaco,X,SDOut,X,SDOut,,,,163.6,-27.4605598,-58.9838905
